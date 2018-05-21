@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
+%TF.CreationDate,2018-05-13T22:07:24Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Kenneth Ostby <kenneth.ostby@gmail.com>*%
+%TJ.B_ID,hubboard_v2*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,59.360000*%
+%TJ.B_Size_Y,66.030000*%
+M02*
